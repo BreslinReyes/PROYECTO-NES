@@ -1,0 +1,52 @@
+
+
+
+.caja1{
+
+    margin-left: 520px ;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    margin-top: 150px;
+
+}
+
+.contenedor{
+
+    justify-content: center;
+
+    background-color: rgb(237, 237, 237);
+    width: 100px;
+    height: 350px;
+    display: flex;
+
+
+}
+
+.contenedor img{
+
+    padding: 40px;
+    margin-top: 0px;
+
+
+
+}
+
+.txt2{
+
+    width: 150px;
+    height: 200px;
+    border: 4px white solid;
+    margin-left: -400px;
+    margin-left: 60px;
+}
+
+.text2 p{
+    margin-top: 100px;
+    margin-right:20px ;
+    margin-left:20px;
+    width: 260px;
+    height:200px ;
+    font-size: 21px;
+}
+
